@@ -1,0 +1,1 @@
+{"name":"Local: Chessboard","url":"c:\\Users\\DcConan\\Desktop\\cpp\\samsung\\Chessboard.cpp","tests":[{"id":1615403812583,"input":"1\n6\n4 5\n1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DcConan\\Desktop\\cpp\\samsung\\Chessboard.cpp","group":"local","local":true}

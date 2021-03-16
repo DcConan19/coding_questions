@@ -1,0 +1,1 @@
+{"name":"Local: matrixtoggle","url":"c:\\Users\\DcConan\\Desktop\\cpp\\samsung\\matrixtoggle.cpp","tests":[{"id":1615917789314,"input":"3 3 1\n1 1 1\n1 1 1\n1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DcConan\\Desktop\\cpp\\samsung\\matrixtoggle.cpp","group":"local","local":true}
